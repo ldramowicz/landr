@@ -25,6 +25,19 @@
          "city": "Quebec City",
          "province": "QC",
          "postalCode": "H2E 0R2",
-         "email": "msimpson@tv.com"}
+         "email": "msimpson@tv.com"},
+        {"id": 3,
+         "groups": ["1"],
+         "firstName": "Bart",
+         "lastName": "Simpson",
+         "jobTitle": "CEO",
+         "phone": "418-123-4567",
+         "houseNumber": "48523",
+         "street": "Bruh St.",
+         "aptNumber": "54",
+         "city": "Drummondville",
+         "province": "QC",
+         "postalCode": "H0E 6R2",
+         "email": "bsimpson@tv.com"}
     ]
 }
