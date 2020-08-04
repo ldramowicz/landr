@@ -12,6 +12,19 @@
          "city": "Montreal",
          "province": "QC",
          "postalCode": "H4E 1R4",
-         "email": "hsimpson@tv.com"}
+         "email": "hsimpson@tv.com"},
+        {"id": 2,
+         "groups": [1, 2],
+         "firstName": "Maggie",
+         "lastName": "Simpson",
+         "jobTitle": "Manager",
+         "phone": "450-123-4567",
+         "houseNumber": "5896",
+         "street": "Rue Dude",
+         "aptNumber": "76",
+         "city": "Quebec City",
+         "province": "QC",
+         "postalCode": "H2E 0R2",
+         "email": "msimpson@tv.com"}
     ]
 }
