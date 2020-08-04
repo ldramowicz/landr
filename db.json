@@ -1,7 +1,17 @@
 {
   "users": [
-        { id: 1, groups: [1, 2], firstName: 'Homer', lastName: 'Simpson', jobTitle: 'Developer', phone: '514-123-4567', houseNumber:'2125', street: 'Main St.', aptNumber: '3', city: 'Montreal', province:'QC', postalCode: 'H4E 1R4', email: 'hsimpson@tv.com'  },
-        { id: 2, groups: [1], firstName:  'Maggie', lastName: 'Simpson', jobTitle: 'Manager', phone: '450-123-4567', houseNumber:'5896', street: 'Rue Dude', aptNumber: '76', city: 'Quebec City', province:'QC', postalCode: 'H2E 0R2', email: 'msimpson@tv.com' },
-        { id: 3, groups: [2, 3], firstName: 'Bart', lastName: 'Simpson', jobTitle: 'CEO', phone: '418-123-4567', houseNumber:'48523', street: 'Bruh St.', aptNumber: '54', city: 'Drummondville', province:'QC', postalCode: 'H0E 6R2', email: 'bsimpson@tv.com' }
+        { "id": 1,
+         "groups": [1, 2],
+         "firstName": "Homer",
+         "lastName": "Simpson",
+         "jobTitle": "Developer",
+         "phone": "514-123-4567",
+         "houseNumber": "2125",
+         "street": "Main St.",
+         "aptNumber": '3',
+         "city": "Montreal",
+         "province": "QC",
+         "postalCode": "H4E 1R4",
+         "email": "hsimpson@tv.com"}
     ]
 }
