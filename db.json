@@ -1,7 +1,7 @@
 {
   "users": [
         {"id": 1,
-         "groups": ["1", "2"],
+         "groups": [1, 2],
          "firstName": "Homer",
          "lastName": "Simpson",
          "jobTitle": "Developer",
@@ -14,7 +14,7 @@
          "postalCode": "H4E 1R4",
          "email": "hsimpson@tv.com"},
         {"id": 2,
-         "groups": ["1"],
+         "groups": [1],
          "firstName": "Maggie",
          "lastName": "Simpson",
          "jobTitle": "Manager",
@@ -27,7 +27,7 @@
          "postalCode": "H2E 0R2",
          "email": "msimpson@tv.com"},
         {"id": 3,
-         "groups": ["1"],
+         "groups": [2, 3],
          "firstName": "Bart",
          "lastName": "Simpson",
          "jobTitle": "CEO",
